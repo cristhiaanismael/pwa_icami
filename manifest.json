@@ -1,0 +1,42 @@
+{
+  "name": "Icami Renovated",
+  "short_name": "ICAMI 2024",
+  "start_url": "index.html",
+  "theme_color": "#0609E2" , 
+  "background_color": "#0609E2",
+
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/icami.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
